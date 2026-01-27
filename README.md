@@ -8,15 +8,22 @@ The goal is to count how many animals have exactly four legs.
 A list or set of animal names.
 
 ## Output
-An integer.
+An integer that count animals legs.
 
 ## Time Complexity
-O(n)
+The time comlexity is O(n) because I loop through the input once.
 
 ## Space Complexity
-O(1)
+The space complexity is O(1) because the dictionery size is fixed.
 
 ## Assumptions
-- Input can be empty
-- Case-insensitive
+- Input can be empty yes.
+- Case-insensitive yes.
 - Unknown animals are ignored
+
+
+# Example 
+
+def count_four_leeged_animals(animals)
+animals_legs = {'lion': 4, 'deer': 4, 'dog': 4, 'ant': 6............
+
