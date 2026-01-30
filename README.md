@@ -1,29 +1,19 @@
 # Animal Count Legs in the Forset
 
- # Animal Leg Count
+ # problem 
 
-The goal is to count how many animals have exactly four legs.
-
-## Input
-A list or set of animal names.
-
-## Output
-An integer that count animals legs.
-
-## Time Complexity
-The time comlexity is O(n) because I loop through the input once.
-
-## Space Complexity
-The space complexity is O(1) because the dictionery size is fixed.
-
-## Assumptions
-- Input can be empty yes.
-- Case-insensitive yes.
-- Unknown animals are ignored
+ the goal to count how many animals have exactly  four legs 
 
 
-# Example 
+Given an array of animal names, the program counts how many of those animals are known to have four legs.
 
-def count_four_leeged_animals(animals)
-animals_legs = {'lion': 4, 'deer': 4, 'dog': 4, 'ant': 6............
+---
 
+## Input Format
+- An array (list) of strings
+- Each string represents the name of an animal
+
+Example:
+```python
+#['lion', 'monkey', 'deer', 'snake', 'elephant']
+ 
