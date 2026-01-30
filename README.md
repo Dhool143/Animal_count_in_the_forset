@@ -16,10 +16,9 @@ Given an array of animal names, the program counts how many of those animals are
 Example:
 ```python
 #['lion', 'monkey', 'deer', 'snake', 'elephant']
- [Uploading animals four legs.drawio…]()
+ 
 
 
 # diagram
-[Uploading animals four legs.drawio…]()[animals four legs.drawio.zip](https://github.com/user-attachments/files/24955723/animals.four.legs.drawio.zip)
 
-
+diagram ![diagram animals four legs](https://github.com/user-attachments/assets/b110b2fa-0045-44cd-8444-22ddbf9d0b57)
