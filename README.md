@@ -19,6 +19,3 @@ Example:
  
 
 
-# diagram
-
-diagram ![diagram animals four legs](https://github.com/user-attachments/assets/b110b2fa-0045-44cd-8444-22ddbf9d0b57)
