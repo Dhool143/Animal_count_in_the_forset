@@ -1,4 +1,4 @@
-import unittest
+
 
 def count_four_legged_animals(animals):
     
